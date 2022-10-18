@@ -1,12 +1,12 @@
 body {
 	background-color: lavenderblush;
 }
-nav {
-}
+
 h2 {
 	padding-left: 50;
 	background-color: lavender;
 	 width: 300;
+	 color: darkmagenta;
 }
 p {
 	font-family: sans-serif;
